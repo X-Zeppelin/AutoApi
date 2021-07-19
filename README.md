@@ -23,7 +23,7 @@ AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~
    * 教程图片看不到请科学上网
    
 * 步骤大纲：
-   * 微软方面的准备工作 （获取应用id、密码、密钥）
+   * 微软方面的准备工作 （获取应用id、密码、密钥）qwqwqwq
    * GIHTHUB方面的准备工作  （获取Github密钥、设置secret）
    * 试运行
    
